@@ -1,0 +1,16 @@
+{
+  "name": "mow-display",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "keywords": [
+    "display",
+    "log",
+    "typescript"
+  ],
+  "author": "Mowtwo",
+  "license": "Apache"
+}
