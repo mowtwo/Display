@@ -1,7 +1,8 @@
 {
   "name": "mow-display",
   "version": "1.0.0",
-  "description": "",
+  "description": "一个简单基于模板的日志打印库",
+  "git repository": "https://github.com/mowtwo/Display.git",
   "main": "index.js",
   "directories": {
     "lib": "lib"
